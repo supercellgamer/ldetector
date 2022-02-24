@@ -1,0 +1,23 @@
+#
+# _____          _            _               _   _ 
+# |  __ \        | |     /\   | |             | | | |
+# | |__) |___  __| |    /  \  | |     ___ _ __| |_| |
+# |  _  // _ \/ _` |   / /\ \ | |    / _ \ '__| __| |
+# | | \ \  __/ (_| |  / ____ \| |___|  __/ |  | |_|_|
+# |_|  \_\___|\__,_| /_/    \_\______\___|_|   \__(_)
+#                                                    
+                                                    
+
+#                                                                   
+# RedAlert detects redstone lag machines - By gluebaby (Undead_Guppy)   - Do not redistribute.
+#
+# IMPORTANT: This plugin is only intended for use in EULA compliant servers! If you use this plugin in a server that features
+# ranks, abilities, perks, items, money, etc... available for purchase with real world currency that offers players an unfair 
+# advantage over nonpaying players, you are violating the terms of use for this plugin! 
+#
+#
+
+
+#Here you can set the amount of repeaters within a chunk to trigger an alert
+repeater-limit: 64
+

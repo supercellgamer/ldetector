@@ -1,0 +1,8 @@
+name: LagDetector
+main: main.a.RedstoneSeeker
+version: 1.0
+description: Detects lag creating blocks
+api-version: 1.16
+commands:
+  ldetector:
+  
